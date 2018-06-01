@@ -1,9 +1,9 @@
-#SPRING BOOT 
+# SPRING BOOT 
 Spring Boot, Spring tabanlı uygulama geliştirmenin configuration zorluklarını ortadan kaldırmak amacıyla geliştirilmiş bir frameworktür.
 
 [SPRING INITIALIZR](start.spring.io) adresinde projenizde kullanıcağınız dependencyleri seçerek başlayabilirsiniz.
 
-#NOT
+# NOT
 
 Projede JSP kullanacaksanız aşağıdaki dependency leri eklemeyi unutmayınız.
 
